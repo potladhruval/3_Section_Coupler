@@ -1,1 +1,2 @@
 # 3_Section_Coupler
+This project focused on the design and implementation of an inductively compensated directional coupler for RF and microwave applications. The compensation aimed to overcome the directivity degradation caused by parasitic effects and inhomogeneous dielectric properties in microstrip directional couplers. The research presented a method to design high-directivity microstrip directional couplers.
